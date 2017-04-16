@@ -1,4 +1,4 @@
-Data folder for prediction project
+# Data folder for prediction project
 
 Files:
  - mss_transect_test_data.xslx: Raw data from the study
