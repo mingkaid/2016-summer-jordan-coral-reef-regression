@@ -2,7 +2,7 @@
 Capstone project for 2016 Summer Ecosystem Experience for Undergraduates (SEE-U) in Jordan
 
 Contents:
- - Cross-validated Ridge and lasso regression models that effectively predict (average absolute percentage error < 2%) indicators of coral-reef-fish biodiversity using data from Wagner et al. (https://peerj.com/articles/1459/)
+ - Cross-validated Ridge and lasso regression models that predict indicators of coral-reef-fish biodiversity using data from Wagner et al. (https://peerj.com/articles/1459/)
  - Cross-validated the models on my own field-collected data 
  - Visualized model performance under different lambda values (strengths) of different regularization terms
  
